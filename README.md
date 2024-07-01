@@ -1,6 +1,7 @@
 # What
 
 A simple way to enter in your projects folders from anywhere
+
 ![](demo.gif)
 
 Instalation
